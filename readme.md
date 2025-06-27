@@ -16,4 +16,4 @@ Each “day” lives in its own folder, so I can track my progress and revisit a
 
 ### 🗂️ Certificate of Completion
 
-<img src="image.png" width="60%"> *Verify using code: 9DE783BC09A90SF8734B* </img>
+<img src="image.png" width="60%"></img>
