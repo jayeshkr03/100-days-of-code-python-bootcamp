@@ -1,9 +1,9 @@
 ## 100 Days of Code: Python Pro Bootcamp
 *By* ***Angela Yu*** *@Udemy*
 
-> 📚  A daily log of my progress through the Udemy course  
-> “100 Days of Code: The Complete Python Pro Bootcamp”  
-> You can check out the official course page [here](https://www.udemy.com/course/100-days-of-code).
+📚  A daily log of my progress through the Udemy course  
+“100 Days of Code: The Complete Python Pro Bootcamp”  
+You can check out the official course page [here](https://www.udemy.com/course/100-days-of-code).
 
 ---
 
@@ -16,4 +16,4 @@ Each “day” lives in its own folder, so I can track my progress and revisit a
 
 ### 🗂️ Certificate of Completion
 
-![img.png](img.png)
+<img src="img.png" width="70%">
